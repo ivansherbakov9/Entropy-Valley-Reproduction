@@ -1,0 +1,4 @@
+Method,sacreBLEU,chrF,Length MAE
+ratio,34.797,30.671,2.652
+ev,36.261,32.446,2.125
+oracle,39.771,35.363,0.0
